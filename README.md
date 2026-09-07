@@ -52,6 +52,8 @@ finalized_data
 └───...
 ```
 
+We also update the description annotations for our dataset [here](https://huggingface.co/datasets/aiozai/AffordBridge/blob/main/data/text_descriptions.json).
+
 ## Data Visualization 
 
 We visualize the point cloud affordance and visual cue image in our dataset. 
@@ -134,7 +136,7 @@ for annotation_data in annotation['annotations']:
 
 ## Progress
 - **AffordBridge Dataset release**: ✅
-- **Detailed reasoning descriptions**: TBD
+- **Detailed reasoning descriptions**: ✅
 
 
 ## Citation
